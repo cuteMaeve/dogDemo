@@ -1,0 +1,25 @@
+# Godot 4 generated files
+.godot/
+*.import
+
+# Imported resource remaps and caches
+.import/
+export.cfg
+export_presets.cfg
+
+# Build outputs
+build/
+exports/
+*.pck
+*.zip
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.swp
+*.swo
+
+# Logs
+*.log
