@@ -1,6 +1,7 @@
 # Godot 4 generated files
 .godot/
 *.import
+.godot_user/
 
 # Imported resource remaps and caches
 .import/
